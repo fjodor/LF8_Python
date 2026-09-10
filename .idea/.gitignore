@@ -4,6 +4,8 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 /LF8_Python-repo.iml
+/LF8_Python-gh.iml
 /modules.xml
 /inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
 /vcs.xml
